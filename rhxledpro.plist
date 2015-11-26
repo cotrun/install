@@ -35,7 +35,7 @@
                <key>bundle-identifier</key>
                <string>com.rhxled.release</string>
                <key>bundle-version</key>
-               <string>1.1.2</string>
+               <string>4.1.13</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
