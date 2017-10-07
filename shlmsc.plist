@@ -1,0 +1,81 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @cotrun
+ Sign out
+You don’t have any verified emails. We recommend verifying at least one email.
+Email verification helps our support team verify ownership if you lose account access and allows you to receive all the notifications you ask for.
+ Unwatch 1
+  Star 0  Fork 0 cotrun/install
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Settings Insights 
+Branch: master Find file Copy pathinstall/rhxled.plist
+a829eb6  on 14 Jul 2015
+@cotrun cotrun Update rhxled.plist
+1 contributor
+RawBlameHistory     
+50 lines (49 sloc)  1.68 KB
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://www.xinbangled.com/wifi/soft/rhxled.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://www.xinbangled.com/wifi/rhxled/images/loginlogo.png</string>
+               </dict>
+      <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://www.xinbangled.com/wifi/rhxled/images/loginlogo.png</string>
+               </dict>
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.rhxled.release</string>
+               <key>bundle-version</key>
+               <string>1.1.2</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>Tue</string>
+               <key>title</key>
+               <string>瑞合信无线控制卡手机客户端</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
+© 2017 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
